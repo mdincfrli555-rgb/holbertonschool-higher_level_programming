@@ -11,4 +11,4 @@ print("{}".format(my_list[i]), end="")
         except IndexError:
             break
     print("")
-    return count
+return count
