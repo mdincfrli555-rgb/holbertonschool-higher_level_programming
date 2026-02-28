@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""fgrihrtgugnjbgtjgia."""
+"""Module that defines a Square class."""
 
 
 class Square:
-    """vvbnfbtjribmdkfb."""
+    """A class that represents a square."""
     pass
 
