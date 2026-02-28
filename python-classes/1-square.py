@@ -12,3 +12,4 @@ class Square:
             size: d (private).
         """
         self.__size = size
+
