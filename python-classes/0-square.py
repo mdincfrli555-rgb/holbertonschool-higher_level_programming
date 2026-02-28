@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""a."""
+"""fgrihrtgugnjbgtjgia."""
 
 class Square:
-    """b."""
+    """vvbnfbtjribmdkfb."""
     pass
 
