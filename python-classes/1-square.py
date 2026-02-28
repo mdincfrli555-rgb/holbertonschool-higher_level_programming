@@ -1,15 +1,13 @@
 #!/usr/bin/python3
-"""a"""
+"""Defines a class Square"""
 
 class Square:
-    """k"""
+    """Represents a Square"""
 
     def __init__(self, size):
-        """
-        b.
+        """Initializes the square
 
         Args:
-            size: d (private).
+            size: side length of the square
         """
         self.__size = size
-
