@@ -36,3 +36,4 @@ class Square:
             int: The area of the square (side squared).
         """
         return self.__size ** 2
+
