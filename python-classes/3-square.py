@@ -4,6 +4,7 @@ This module defines the Square class for geometric calculations.
 It provides functionality to initialize and calculate square areas.
 """
 
+
 class Square:
     """
     A class used to represent a Square object.
